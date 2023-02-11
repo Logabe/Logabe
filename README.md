@@ -1,6 +1,9 @@
 ### Hello World
 #### (Presuming of course, that there is a world and I'm not just hallucinating)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logabe)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logabe&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Heya! I'm Logabe (any pronouns) and this is a place where I store code sometimes.
+If you look at my Repositories, it's mostly old code that I no longer care about, but can't be bothered to delete right now (give me a few years and I'll get to it). Um... I don't know what to say here. Well, time to go into hibernation for a few months!
 <!--
 **Logabe/Logabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
