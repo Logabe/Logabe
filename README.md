@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World
+## (Presuming of course, that there is a world and I'm not just hallucinating)
 
 <!--
 **Logabe/Logabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
